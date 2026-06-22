@@ -1,3 +1,4 @@
 English text
 日本語だよ
 eigo
+追加した1行
